@@ -1,0 +1,19 @@
+{
+  "name": "sqlemployeetracker",
+  "version": "1.0.0",
+  "description": "Content Management System",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sytrejo/SQLEmployeeTracker.git"
+  },
+  "author": "Silvia Trejo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sytrejo/SQLEmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/sytrejo/SQLEmployeeTracker#readme"
+}
