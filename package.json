@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/sytrejo/SQLEmployeeTracker/issues"
   },
-  "homepage": "https://github.com/sytrejo/SQLEmployeeTracker#readme"
+  "homepage": "https://github.com/sytrejo/SQLEmployeeTracker#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "inquirer": "^8.2.0",
+    "mysql": "^2.18.1"
+  }
 }
