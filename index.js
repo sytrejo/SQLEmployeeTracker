@@ -116,7 +116,7 @@ const searchDept = () =>{
 
 const addEmp = () => {
 
-    connection.query(queryRoles, (err,res) => {
+    connection.query(queryRoles, (err, res) => {
         let roleChoices = res.map(function (res){
             return res['title'];
         });
