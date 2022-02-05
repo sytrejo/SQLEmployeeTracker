@@ -31,7 +31,7 @@ Anyone can clone or fork the repo. Once you download the app just follow the ins
 
 ## Deployment
 
-Video Link: [Google Drive Link to Video]()
+Video Link: [Google Drive Link to Video](https://drive.google.com/file/d/1yO5BGFmmOOlbjVSy7jZYJTPRSEbrHqw2/view?usp=sharing)
 
 Repo Link: [https://github.com/sytrejo/SQLEmployeeTracker](https://github.com/sytrejo/SQLEmployeeTracker)
 
