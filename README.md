@@ -37,7 +37,7 @@ Repo Link: [https://github.com/sytrejo/SQLEmployeeTracker](https://github.com/sy
 
 ## Screenshots
 
-![Image 1](assets/screenshot/entering mysql .png)
-![Image 2](assets/screenshot/schema and seed file 2.png)
-![Image 3](assets/screenshot/seed  and schema file.png)
-![Image 4](assets/screenshot/menu output.png)
+![Image 1](assets/screenshot/seedandschemafile.jpg)
+![Image 2](assets/screenshot/schemaandseeddfile2.jpg)
+![Image 3](assets/screenshot/seedandschemafile.jpg)
+![Image 4](assets/screenshot/menuoutput.jpg)
